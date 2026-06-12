@@ -1,4 +1,4 @@
-[Live Site For gameplay](https://iisurf.github.io/sba316/)
+[Live Site For gameplay](https://iisurf.github.io/Memory_Match/)
 
 # Form Validation and Memory Match Card Game
 Created a small single-page web application that includes a form with the **Document Object Model** (DOM) in mind. It dissapears when the submit button is clicked on and a memory match card game appears.
