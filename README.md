@@ -1,6 +1,3 @@
-> [!Note]
-> Under Construction - Due May 24, 2024 at 11:59pm
-
 [Live Site For gameplay](https://iisurf.github.io/sba316/)
 
 # Form Validation and Memory Match Card Game
